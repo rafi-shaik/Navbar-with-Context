@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.about-dark-theme {
+  background-color: #000000;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.about-light-theme {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.about-img {
+  width: 250px;
+}
+
+.heading-dark {
+  color: #ffffff;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+
+.heading-light {
+  color: #1e293b;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
